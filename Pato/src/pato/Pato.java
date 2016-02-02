@@ -21,4 +21,6 @@ public class Pato
 	{
 		return this.Posicion;
 	}
+	
+	//Proyecto del pato sin acabar
 }
